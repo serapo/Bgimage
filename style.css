@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+}
+.bgimage{
+    background-image: url("./img/tree.jpeg");
+   width: auto;
+    height:100vh;
+   background-size:cover;
+   background-repeat: no-repeat;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-size: 8rem;
+    padding-top: 1rem;
+}
+h6{
+    color:white;
+    font-size: 2rem;
+    text-align: center;
+}
+.box{
+  
+    padding-bottom:10vh;
+    position: fixed;
+    padding-top: 40%; 
+    padding-left: 40%;
+    letter-spacing: 35px;
+
+}
+.box1{
+    width: 10vh;
+    height: 1vh;
+    background-color: orangered;
+    border: none;
+   
+}
+.box2{
+    width: 10vh;
+    height: 1vh;
+    border: none;
+    
+}
+.box3{
+    width: 10vh;
+    height: 1vh;
+    border: none;
+   
+}
